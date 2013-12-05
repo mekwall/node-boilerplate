@@ -1,0 +1,29 @@
+{
+  "name": "mvc",
+  "version": "0.0.1",
+  "description": "MVC boilerplate",
+  "main": "app.js",
+  "dependencies": {
+    "yamljs": "*",
+    "express.io": "*",
+    "jade": "*",
+    "browserify": "*",
+    "browserify-middleware": "*",
+    "mime": "*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/mekwall/mvc.git"
+  },
+  "author": {
+    "name": "Marcus Ekwall",
+    "email": "marcus.ekwall@gmail.com",
+    "url": "https://github.com/mekwall"
+  },
+  "license": "BSD",
+  "bugs": {
+    "url": "https://github.com/mekwall/mvc/issues"
+  },
+  "readme": "README.md",
+  "readmeFilename": "README.md"
+}

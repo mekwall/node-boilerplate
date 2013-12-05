@@ -1,0 +1,4 @@
+environment:
+    default:
+        secret: "secret"
+        port: 8080
